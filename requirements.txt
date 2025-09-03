@@ -1,0 +1,19 @@
+# Main dependencies from V-Net.ipynb
+kaggle
+kaggle-cli
+git+https://github.com/copick/copick-utils.git
+copick
+scikit-image
+cupy-cuda12x
+torch
+torchvision
+tqdm
+matplotlib
+tensorflow
+pandas
+zarr
+numpy
+glob2
+kaggle
+kaggle-cli
+torchviz
