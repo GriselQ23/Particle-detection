@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Particle Detection in Cryo-Electron Tomography (cryoET)
 
 ## Project Overview
@@ -87,3 +88,6 @@ If you use this project or dataset, please cite the original dataset authors and
 
 ---
 For questions or contributions, please open an issue or submit a pull request.
+=======
+# Particle-detection
+>>>>>>> a11dfe59dad709b8ae7f87989d617e58b6d12e47
